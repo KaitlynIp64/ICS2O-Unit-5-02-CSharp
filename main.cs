@@ -1,5 +1,5 @@
 // Created by: Kaitlyn Ip
-// Created on: April 2022
+// Created on: April 2022 
 //
 // This program accepts user input
 
